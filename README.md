@@ -2,10 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sumitchintanwar.sumitchintanwar&left_color=indigo&right_color=lightcoral"  />
-</div>
-
 ###
 
 <img align="left" height="160" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
@@ -132,3 +128,8 @@
 </div>
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumitchintanwar/sumitchintanwar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitchintanwar/sumitchintanwar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sumitchintanwar/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
