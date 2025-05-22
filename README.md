@@ -2,23 +2,15 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="160" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
-</div>
+<img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
 
 ###
-
-<br clear="both">
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<br clear="both">
-
-<h4 align="left">👋 Hi, I’m Sumit — curious about tech and always learning.<br>🔭 Exploring new technologies and building projects.<br>🚀 Diving into software and web development.<br>🌱 Outside tech, I enjoy books, music, and quiet moments.</h4>
+<h4 align="left">👋 Hi, I’m Sumit curious about tech and always learning.<br>🔭 Exploring new technologies and building projects.xnksdn <br>🚀 Diving into software and web development.<br>🌱 Outside tech, I enjoy books, music, and quiet moments.</h4>
 
 ###
 
