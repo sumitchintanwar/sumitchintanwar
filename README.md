@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">👋 Hi, I’m Sumit curious about tech and always learning.<br>🔭 Exploring new technologies and building projects.xnksdn <br>🚀 Diving into software and web development.<br>🌱 Outside tech, I enjoy books, music, and quiet moments.</h4>
+<h4 align="left">👋 Hi, I’m Sumit — curious about tech and always learning.<br>🔭 Exploring new technologies and building projects.xnksdn <br>🚀 Diving into software and web development.<br>🌱 Outside tech, I enjoy books, music, and quiet moments.</h4>
 
 ###
 
